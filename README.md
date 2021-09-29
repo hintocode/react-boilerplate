@@ -61,6 +61,9 @@ npm run lint
 npm run type-check
 ```
 
+### Template snippets (reserved feature)
+To speed up development and to grant more code consistency, take a look at [@hinto/react-snippets](https://github.com/hintocode/react-snippets).
+
 ### Production
 
 #### Dynamic apps
